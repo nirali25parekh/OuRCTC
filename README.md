@@ -1,4 +1,4 @@
-# Pseudo-RCTC
+# OuR-CTC
 
 ## Introduction
 
