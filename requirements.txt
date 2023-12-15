@@ -1,0 +1,10 @@
+Django==2.2
+django-authtools==1.6.0
+django-braces==1.13.0
+django-crispy-forms==1.7.2
+pytz==2018.7
+asgiref==3.3.0
+djangorestframework==3.12.1
+sqlparse==0.4.1
+python-dateutil==2.8.1
+six==1.15.0
